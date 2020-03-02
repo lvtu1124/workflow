@@ -1,7 +1,7 @@
 <?php
 declare (strict_types = 1);
 
-namespace lvtu\workflow\logic;
+namespace lvtu\appdemo\logic;
 
 class Base
 {

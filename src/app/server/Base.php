@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace lvtu\workflow\server;
+namespace lvtu\appdemo\server;
 
 use think\facade\Request;
 

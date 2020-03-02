@@ -1,5 +1,5 @@
 {
-    "name": "lvtu1124/workflow",
+    "name": "lvtu1124/appdemo",
     "description": "tp6 workfolw",
     "type": "project",
     "keywords": [
@@ -27,10 +27,10 @@
     },
     "autoload": {
         "psr-4": {
-            "lvtu\\workflow\\": "app"
+            "lvtu\\appdemo\\": "app"
         },
         "psr-0": {
-            "lvtu\\workflow\\": "extend/"
+            "lvtu\\appdemo\\": "extend/"
         }
     },
     "config": {
@@ -39,10 +39,10 @@
     "extra": {
         "think": {
             "services": [
-                "lvtu\\workflow\\service"
+                "lvtu\\appdemo\\service"
             ],
             "config": {
-                "workflow": "src/config/workflow.php"
+                "appdemo": "src/config/appdemo.php"
             }
         }
     }

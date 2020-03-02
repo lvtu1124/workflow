@@ -1,5 +1,5 @@
 <?php
-namespace lvtu\workflow\controller;
+namespace lvtu\appdemo\controller;
 
 use app\BaseController;
 
@@ -7,7 +7,7 @@ class Index extends BaseController
 {
     public function index()
     {
-        return 'workflow工作流模块';
+        return 'appdemo工作流模块';
     }
 
 }
