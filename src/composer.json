@@ -1,5 +1,5 @@
 {
-    "name": "lvtu/workflow",
+    "name": "lvtu1124/workflow",
     "description": "tp6 workfolw",
     "type": "project",
     "keywords": [
@@ -19,9 +19,7 @@
         }        
     ],
     "require": {
-        "php": ">=7.1.0",
-        "topthink/framework": "^6.0.0",
-        "topthink/think-orm": "^2.0"
+        "php": ">=7.1.0"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.2",
